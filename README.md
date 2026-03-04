@@ -13,7 +13,7 @@ Producer sends messages, Consumer processes them.
 Java 17 + Spring Boot 4.0.3 \
 Apache Kafka 4.2.0 (KRaft mode) \
 Docker + Docker Compose \
-Maven for build \
+Maven for build
 
 # Quick Start
 
